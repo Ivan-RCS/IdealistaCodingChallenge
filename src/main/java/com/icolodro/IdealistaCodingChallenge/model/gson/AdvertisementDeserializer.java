@@ -19,10 +19,10 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
-import com.icolodro.IdealistaChallenge.utils.Constants;
 import com.icolodro.IdealistaCodingChallenge.model.Advertisement;
 import com.icolodro.IdealistaCodingChallenge.model.AdvertisementTypology;
 import com.icolodro.IdealistaCodingChallenge.model.Picture;
+import com.icolodro.IdealistaCodingChallenge.utils.Constants;
 
 /**
  * 

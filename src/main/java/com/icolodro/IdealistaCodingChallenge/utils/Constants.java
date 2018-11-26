@@ -1,4 +1,4 @@
-package com.icolodro.IdealistaChallenge.utils;
+package com.icolodro.IdealistaCodingChallenge.utils;
 
 import java.util.Arrays;
 import java.util.HashSet;

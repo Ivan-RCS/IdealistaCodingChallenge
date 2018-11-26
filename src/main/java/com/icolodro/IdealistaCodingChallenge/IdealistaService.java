@@ -15,10 +15,10 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
-import com.icolodro.IdealistaChallenge.utils.Constants;
 import com.icolodro.IdealistaCodingChallenge.model.Advertisement;
 import com.icolodro.IdealistaCodingChallenge.model.gson.AdvertisementDeserializer;
 import com.icolodro.IdealistaCodingChallenge.model.gson.AdvertisementSerializer;
+import com.icolodro.IdealistaCodingChallenge.utils.Constants;
 
 /**
  * Este servicio operala la lógica de negocio de las operaciones requeridas por Idealista. Como se trata de un servicio web, implementa un patrón

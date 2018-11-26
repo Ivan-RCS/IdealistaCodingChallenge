@@ -8,7 +8,8 @@ Maven, herramienta de compresión y de gestión de proyecto ha sido utiliza. Est
 Librerías utilizadas:
 	- JUnit : para test unitarios
 	- gson : para gestionar los objetos JSON
-	- Spark-core : para montar la API HTTP, micro framework para crear aplicaciones web de manera rápida con Java 8 
+	- Spark-core : para montar la API HTTP, micro framework para crear aplicaciones web de manera rápida con Java 8
+	- slf4j : para logging
 
 
 Usar esto comandos con la herramienta Maven:
