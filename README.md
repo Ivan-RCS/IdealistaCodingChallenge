@@ -13,13 +13,13 @@ Librerías utilizadas:
 	- slf4j : para logging
 
 
-Usar esto comandos con la herramienta Maven:
+Usar estos comandos con la herramienta Maven:
 
 	- mvn eclipse:eclipse //para descargar y colocar las liberias en el projecto de eclipse
 	- mvn clean install //para generar el jar y ejecutar los test
 	- mvn exec:java //para ejecutar la api
 
-Este solución intenta demostrar las habilidades del desarrillador a la hora de modelar diferentes clases, programación orientada a objetos, patrones de diseño, etc. Además
+Este solución intenta demostrar las habilidades del desarrollador a la hora de modelar diferentes clases, programación orientada a objetos, patrones de diseño, etc. Además
 de las últimas carcterísticas de Java como expresiones Lambda y Optional.
 
 El challenge está relacionado con hacer una API HTTP. Se ha implementado para la estructura del servidor web el típico patrón MVC.
